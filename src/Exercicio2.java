@@ -13,5 +13,7 @@ public class Exercicio2 {
         qtdLitros = leitor.nextDouble();
         consumo = (kmFinal - kmInicial) / qtdLitros; //PD
         System.out.println("O consumo do veículo foi " + consumo + " k/l"); //SD
+
+        //Finalização da aula 1
     }
 }
